@@ -1,0 +1,22 @@
+# IDE related:
+.vs/
+.vscode
+_ReSharper.Caches/
+Folder.DotSettings.user
+.settings/
+.cproject
+.project
+
+# Build related:
+build/
+/Release/
+__pycache__
+/Unittests_only/
+out/
+output_file.txt
+Testing/
+
+
+
+
+
